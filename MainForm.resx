@@ -120,6 +120,18 @@
   <metadata name="serialPort1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>How to use it:
+1. Add UniqID on the Sensors panel
+2. Open COM port
+3. Type a timer interval in the interval box
+4. Check the sensor that you want to simulate
+5. Check Interval check box
+
+PS:Just add UniqID like 
+-&gt; 2021UU123456-0001 &lt;-
+The program will generate random value and send it</value>
+  </data>
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>131, 17</value>
   </metadata>
